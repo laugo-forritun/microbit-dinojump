@@ -1,2 +1,2 @@
-# microbit-dinojump
-Microbit implementation of the Chrome No-network dino game
+# BBC:Microbit DinoJump
+Microbit implementation of the Chrome no-network dino game
